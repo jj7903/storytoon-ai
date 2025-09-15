@@ -1,0 +1,5 @@
+{
+  "name": "4-Panel Storytoon Generator",
+  "description": "An AI-powered application that generates a 4-panel comic strip (storytoon) from a user-provided character image and a four-part story. Users can select the aspect ratio for the final comic.",
+  "requestFramePermissions": []
+}
